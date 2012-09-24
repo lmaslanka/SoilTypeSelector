@@ -43,7 +43,6 @@
     <Compile Include="SoilType.cs" />
     <Compile Include="SoilTypeValues.cs" />
     <Compile Include="TernaryCoordinate.cs" />
-    <Compile Include="TernaryPlotTools.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SoilTypeSelector.PolygonLibrary\SoilTypeSelector.PolygonLibrary.csproj">
