@@ -81,7 +81,6 @@
                 new TernaryCoordinate { Sand = 45, Silt = 27.5, Clay = 27.5 },
                 new TernaryCoordinate { Sand = 52.5, Silt = 27.5, Clay = 20 },
                 new TernaryCoordinate { Sand = 80, Silt = 0, Clay = 20 },
-                new TernaryCoordinate { Sand = 20, Silt = 40, Clay = 40 },
                 new TernaryCoordinate { Sand = 65, Silt = 0, Clay = 35 }
             }
         };

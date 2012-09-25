@@ -39,16 +39,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Point.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SoilType.cs" />
     <Compile Include="SoilTypeValues.cs" />
     <Compile Include="TernaryCoordinate.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\SoilTypeSelector.PolygonLibrary\SoilTypeSelector.PolygonLibrary.csproj">
-      <Project>{91b7319d-4eb6-4f5a-a0f2-4cf5a87ba613}</Project>
-      <Name>SoilTypeSelector.PolygonLibrary</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
